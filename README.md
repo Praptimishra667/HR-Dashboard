@@ -108,7 +108,8 @@ This HR analytics dashboard is designed to help organizations:
 
 ## 📸 Screenshot
 
-![HR Dashboard Preview](Screenshot%202025-06-28%20232806.png)
+![HR Dashboard Preview](https://github.com/user-attachments/assets/ddc3d1ce-0d0e-4483-bb57-47bf058365a2)
+)
 
 ---
 
